@@ -30,3 +30,5 @@ const BookContextProvider = (props) => {
 
 }
 
+export default BookContextProvider
+
